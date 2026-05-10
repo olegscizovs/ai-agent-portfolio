@@ -1,0 +1,4 @@
+[tool.pyrefly]
+python_version = "3.10"
+python_interpreter = "./venv/bin/python"
+search_path = ["./core"]

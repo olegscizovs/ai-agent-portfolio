@@ -1,0 +1,11 @@
+torch
+openvino
+optimum-intel
+ollama
+langchain
+langchain-community
+playwright
+crawl4ai
+chromadb
+rich
+psutil
